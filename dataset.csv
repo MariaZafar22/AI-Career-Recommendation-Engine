@@ -1,0 +1,21 @@
+career,skills,interests,technologies,level,domain
+AI/ML Engineer,"Python,Machine Learning,Deep Learning,Problem Solving","Artificial Intelligence,Automation,Research","Python,Scikit-learn,TensorFlow",Intermediate,Artificial Intelligence
+Data Scientist,"Python,Statistics,Machine Learning,Data Analysis","Data,Research,Analytics","Python,Pandas,Scikit-learn,SQL",Intermediate,Data Science
+Data Analyst,"SQL,Excel,Data Analysis,Statistics","Analytics,Business,Data","SQL,Excel,Power BI,Python",Beginner,Data Analytics
+Data Engineer,"Python,SQL,Databases,Data Processing","Big Data,Data Systems,Engineering","Python,SQL,Spark,AWS",Intermediate,Data Engineering
+Software Engineer,"Python,Programming,Problem Solving,Algorithms","Software,Technology,Development","Python,Git,APIs,Databases",Beginner,Software Development
+Web Developer,"HTML,CSS,JavaScript,Programming","Web Design,Technology,Development","HTML,CSS,JavaScript,React",Beginner,Web Development
+Cybersecurity Analyst,"Networking,Linux,Security,Problem Solving","Cybersecurity,Ethical Hacking,Security","Linux,Wireshark,Python,SIEM",Intermediate,Cybersecurity
+Cloud Engineer,"Linux,Networking,Programming,Problem Solving","Cloud,Infrastructure,Technology","AWS,Docker,Linux,Kubernetes",Intermediate,Cloud Computing
+DevOps Engineer,"Linux,Programming,Automation,Problem Solving","Automation,Cloud,Deployment","Docker,Kubernetes,AWS,Git",Intermediate,DevOps
+UI/UX Designer,"Design,Creativity,User Research,Communication","Design,Creativity,User Experience","Figma,Adobe XD,Prototyping",Beginner,Design
+Mobile App Developer,"Programming,UI Design,Problem Solving","Mobile Apps,Technology,Development","Flutter,Dart,Android",Beginner,Mobile Development
+NLP Engineer,"Python,Machine Learning,NLP,Deep Learning","Artificial Intelligence,Language,Research","Python,NLTK,Transformers,PyTorch",Advanced,Artificial Intelligence
+Computer Vision Engineer,"Python,Computer Vision,Machine Learning,Deep Learning","AI,Images,Robotics,Research","Python,OpenCV,PyTorch,TensorFlow",Advanced,Artificial Intelligence
+Robotics Engineer,"Python,Programming,Electronics,Problem Solving","Robotics,Automation,AI","Python,ROS,C++,Arduino",Advanced,Robotics
+Business Intelligence Analyst,"SQL,Data Analysis,Visualization,Statistics","Business,Analytics,Decision Making","Power BI,SQL,Excel,Tableau",Intermediate,Business Intelligence
+Machine Learning Researcher,"Python,Machine Learning,Mathematics,Research","AI,Research,Innovation","Python,PyTorch,TensorFlow,Jupyter",Advanced,Artificial Intelligence
+Product Manager,"Communication,Leadership,Problem Solving,Research","Technology,Business,Strategy","Jira,Notion,Analytics",Intermediate,Product Management
+QA Automation Engineer,"Python,Testing,Programming,Problem Solving","Software Quality,Automation,Technology","Python,Selenium,PyTest,Git",Intermediate,Software Testing
+Database Administrator,"SQL,Databases,Networking,Problem Solving","Databases,Data Systems,Technology","SQL,MySQL,PostgreSQL,Oracle",Intermediate,Database Management
+Technical Writer,"Writing,Communication,Research,Technology","Writing,Technology,Education","Markdown,Git,Documentation Tools",Beginner,Technical Communication
